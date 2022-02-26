@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Mal Oç")
+game.Players.LocalPlayer:Kick("Mal Oc")
